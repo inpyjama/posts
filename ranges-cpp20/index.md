@@ -19,7 +19,7 @@ categories = [
 ]
 
 series = ["C++"]
-images = ["/post/modules-cpp20/1.webp"]
+images = ["/post/ranges-cpp20/1.webp"]
 +++
 
 C++20 introduced Ranges, a powerful standard library feature that simplifies code by replacing loops and iterators with a functional programming style for working with sequences.
