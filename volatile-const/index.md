@@ -1,6 +1,6 @@
 +++
 date  = "2023-09-06"
-title = 'Why learn ARM 64 Bit Architecture?'
+title = 'Harnessing Volatile and Const in Embedded C'
 
 author = "Zahid Basha S K"
 authorImage =""
