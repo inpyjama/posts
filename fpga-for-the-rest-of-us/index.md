@@ -11,10 +11,10 @@ blog = "itankar.com"
 email = "piyush@inpyjama.com"
 
 tags = [
-    "fpga",
+    "hardware", "fpga"
 ]
 categories = [
-    "fpga",
+    "hardware",
 ]
 
 series = ["fpga"]

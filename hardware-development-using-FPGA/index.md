@@ -11,7 +11,7 @@ blog = "itankar.com"
 email = "piyush@inpyjama.com"
 
 tags = [
-    "hardware",
+    "hardware", "fpga"
 ]
 categories = [
     "hardware",
@@ -220,3 +220,7 @@ ACTION=="add", ATTR{idVendor}=="0403", ATTR{idProduct}=="6010", MODE:="666"
 ```
 
 to the `/etc/udev/rules.d/53-lattice-ftdi.rules` file. You will need superuser permissions to edit this file. Once updated, make prog should work and there should be no need to add sudo before it.
+
+## Video demo
+
+{{< youtube DQXEBMF3Bq4 >}}
