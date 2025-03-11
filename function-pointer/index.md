@@ -4,11 +4,11 @@ title = 'Function Pointers - Everything you need to know!'
 
 author = "Piyush Itankar"
 authorImage ="teams/piyush.jpg"
-preferred = "https://x.com/dstreetdogg"
+preferred = "https://x.com/pyjamabrah"
 linkedin = "https://www.linkedin.com/in/streetdogg/"
-twitter = "https://x.com/dstreetdogg"
+twitter = "https://x.com/pyjamabrah"
 blog = "itankar.com"
-email = "piyush@inpyjama.com"
+email = "piyush@pyjamabrah.com"
 
 tags = [
     "c", "pointers", "function pointers"
